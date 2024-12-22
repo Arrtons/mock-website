@@ -1,3 +1,3 @@
-# mock-website
+# mock-landing-age
 
-Creating a mockwebsite from a png, using Css and html.
+Creating a landing page base from a png. Adding my own customisation. 
